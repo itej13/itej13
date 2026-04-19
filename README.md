@@ -5,8 +5,6 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/itej13?label=Follow&style=social)](https://github.com/itej13)
-&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=itej13&color=6E40C9&style=flat-square)
 
 </div>
 
@@ -68,3 +66,4 @@ No boilerplate. No Stack Overflow rabbit holes. Just building.
 *Built end-to-end with [Claude Code](https://claude.ai/code) · Shipped at hackathons · Ideas into products*
 
 </div>
+
